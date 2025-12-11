@@ -5,7 +5,7 @@
 
 2. Create a virtual environment
 
-    python -m venv venv
+    python -m venv venv  
     venv\Scripts\activate
 
 3. Install dependencies
