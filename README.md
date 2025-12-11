@@ -14,9 +14,9 @@
 
 4. Download NLTK resources
 
-    import nltk
-    nltk.download('punkt')
-    nltk.download('punkt_tab')  
+    import nltk  
+    nltk.download('punkt') 
+    nltk.download('punkt_tab')   
   
 5. Running the project
 
