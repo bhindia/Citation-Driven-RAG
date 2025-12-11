@@ -1,6 +1,6 @@
 1. Clone the repository
 
-    git clone https://github.com/bhindia/Citation-Driven-RAG.git
+    git clone https://github.com/bhindia/Citation-Driven-RAG.git  
     cd Citation-Driven-RAG
 
 2. Create a virtual environment
